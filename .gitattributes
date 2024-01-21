@@ -27,11 +27,6 @@ int led0=13;
 int led1= 4;
 int led2 = 5;
 int ledSensor=16;
-
-
-
-
-
   
 void setup(void){
   Serial.begin(115200); // Starts the serial communication
